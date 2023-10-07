@@ -1,2 +1,2 @@
 # Analiza-Danych-Python-
-laboratorium przedmiotu analiza danych w języku python 
+Laboratorium  Analiza Danych w Języku Python 
